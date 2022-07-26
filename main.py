@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# Made by @swisscoding on Instagram
+
 
 from colored import stylize, fg
 import instaloader
